@@ -19,7 +19,8 @@ CoreTech Labs assigned a task to convert an unstructured accident dataset into i
 
 ---
 
-<img width="1793" height="775" alt="Image" src="https://github.com/user-attachments/assets/92425b34-a4cd-4b52-8d17-113085df6290" />
+<img width="1793" height="775" alt="Image" src="https://github.com/user-attachments/assets/0bd561d0-d20b-492c-9a18-aeffa5ac972e" />
+
 
 
 **Built using:**
