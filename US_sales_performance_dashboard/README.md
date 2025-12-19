@@ -16,7 +16,8 @@ The dashboard is built entirely in Excel using pivot tables, calculated fields a
 
 ---
 
-<img width="1600" height="776" alt="Furniture sales overview" src="https://github.com/user-attachments/assets/62a12ccf-927b-4a16-8979-4563ccaaf487" />
+<img width="1600" height="776" alt="Furniture sales overview" src="https://github.com/user-attachments/assets/47e2045e-a8e3-4d1f-9e3d-7e1f6b14bdfd" />
+
 
 ---
 
